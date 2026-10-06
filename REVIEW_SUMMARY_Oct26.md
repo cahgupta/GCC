@@ -14,14 +14,14 @@ Workbook: `GCC_List_TopGCCsIndia_reviewed_Oct26.xlsx` (tab "Top GCCs India", plu
 
 ## Verification method and its limit
 
-Two independent passes were run: a researcher pass (one agent per batch of six companies plus a completeness agent) and a separate auditor pass that re-searched every proposed change. The review environment could not open web pages directly, so all claims were checked against search-engine indexed page text from the cited URLs. Items the auditor could not reach within budget are labelled `audit: not audited` in the cell. Counts across the 51 original rows (columns B to H, plus trend):
+Two independent passes were run: a researcher pass (one agent per batch of six companies plus a completeness agent) and a separate auditor pass that re-searched every proposed change. The review environment could not open web pages directly, so all claims were checked against search-engine indexed page text from the cited URLs. A follow-up pass then re-audited every item the first auditor had not reached and re-tried the open leader questions from new angles. Counts across the 51 original rows (columns B to H, plus trend):
 
 | Outcome | Count |
 |---|---|
-| Items verified by auditor | 129 |
-| Items amended by auditor | 198 |
-| Items rejected (unproven, shown as re-check notes) | 11 |
-| Items not reached by auditor | 19 |
+| Items verified by auditor | 128 |
+| Items amended by auditor | 211 |
+| Items rejected (unproven, shown as re-check notes) | 18 |
+| Items not reached by auditor | 0 (a follow-up pass closed the 19 unreached items) |
 
 ## Material findings
 
@@ -33,7 +33,9 @@ Two independent passes were run: a researcher pass (one agent per batch of six c
 - Arch Global Services India: "Ajay Prasad" does not appear in any Arch source.
 - Dai-ichi Life GCC: "G. Saikumar" not found in any GCC source; the only match is an audit executive at SUD Life.
 - AXA GBS: Michele Rochefort remains the only CEO supported by credible sources; the reported successor Eric Berger could not be confirmed.
-- Existing names that could not be verified anywhere credible: Admiral (Shweta Singh), Gallagher (Sonjoy Kshettry), M&G (Zahabiya Officewala), Chubb (Mohan Narayanaswamy), Genworth (Bijal Shah), N2G (Sachin Joshi), PFI (Pravin Goel).
+- Existing names that could not be verified anywhere credible after three search angles: Admiral (Shweta Singh), Gallagher (Sonjoy Kshettry), M&G (Zahabiya Officewala), Chubb (Mohan Narayanaswamy), Genworth (Bijal Shah), N2G (Sachin Joshi), Hartford (Surya Thammiraju).
+- PFI India Innovation Centre: Pravin Goel confirmed as VP & Country Head (joined from BlackRock); an earlier rejection rested on a stale BlackRock page.
+- Arch Global Services India: Raju Chiluvuri confirmed as Technology Head (Hyderabad) in Arch's own release; no overall India head is named.
 - New leaders found: Assurant India (Harini Kannan, Apr 2026), Lloyd's India (Shefali Sehwani, promotion to CEO reported but not confirmed by Lloyd's), Lockton India (Jay Sharma, May 2026, subject to approval), BMS India (Nipun Mapara), Guardian India (Karunakaran Azhisur, Jan 2026, now moving to HCLTech).
 
 **Locations wrong on the sheet**
@@ -60,14 +62,17 @@ Two independent passes were run: a researcher pass (one agent per batch of six c
 
 Insurance GCC section (4 new rows): Voya India (Bengaluru and Hyderabad, 3,000+, CEO Sharada Nandakumar), Allianz Technology SE India (Pune and Trivandrum, 3,500+, distinct from Allianz Services), Ameriprise India LLP (Gurugram, Noida, Hyderabad, 3,400+), FNF India (Bengaluru, ~3,800 to 4,000, MD George Inasu; title insurer, same scope caveat as First American).
 
-Reinsurance branch / broker section (10 new rows, mostly new GIFT City IFSC branches in 2025-26): Korean Re, MAPFRE Re, Everest Re, W. R. Berkley, PartnerRe, IGI, Santam, Echo Re, Saudi Re, and Allianz Jio Reinsurance (Indian-domiciled JV, probably out of scope but tracked).
+Reinsurance branch / broker section (18 new rows, mostly GIFT City IFSC branches): Korean Re, MAPFRE Re, Everest Re, W. R. Berkley, PartnerRe, IGI, Santam, Echo Re, Saudi Re, Qatar Islamic Insurance (Aug 2026), ADNIC (Apr 2026), MS First Capital / MS&AD (Jul 2026), Doha Insurance Group (Mar 2025), Peak Re (Feb 2025), Sing Re (Jun 2025), AWP P&C / Allianz Partners IFSC office (Apr 2024), EarthRe Insurance IFSC (Indian start-up reinsurer, Aug 2026, scope call), and Allianz Jio Reinsurance (Indian-domiciled JV, probably out of scope but tracked).
+
+Follow-up threads closed: Allianz Partners has no India GCC (only an assistance company in Gurugram and the GIFT City reinsurance office above). Allianz Technology India and Ameriprise India have no publicly named MD or country head; the best-evidenced names (Allianz Technology COO Dijo Joseph George; Ameriprise designated partners) are recorded in those rows.
 
 Groups checked with no India GCC found: AIA, Aviva, Legal & General, Phoenix, NN, Generali (only via N2G), Mapfre (ex GIFT City), Talanx/HDI, Tokio Marine, Sompo, MS&AD, Manulife, Liberty Mutual, Travelers, Progressive, USAA, State Farm, AIG (current), Lincoln, Aflac, Unum, New York Life, Northwestern Mutual, Equitable, Brighthouse, Transamerica/Aegon, Pacific Life, Securian, Ameritas, Mutual of Omaha, Erie, Farmers, CNA, RenRe, Beazley, Hiscox, Howden, Brown & Brown, Hub, Humana, Centene, Molina, CVS/Aetna, QBE, IAG, Suncorp, Allianz Partners, Allianz Trade, Coface, Atradius, Toa Re, Charles Taylor, Sedgwick, Crawford, Davies.
 
-## Open items for direct confirmation
+## Residual items that only a direct check can settle
 
-1. Successors at Swiss Re GBS India, Marsh McLennan Global Services India and Principal Global Services India.
-2. The seven unverifiable existing leader names listed above (LinkedIn check).
-3. Hartford Hyderabad site head (Surya Thammiraju not found in indexed sources).
-4. MCA status of Hannover Re Consulting Services India and the Lockton entities.
-5. Headcounts for Aon, Markel, Intact, SCOR branch, Gen Re branch, Lloyd's India, BMS India.
+These were searched from three angles across the research, audit and follow-up passes without finding a credible public source. They are flagged in the sheet rather than asserted.
+
+1. Successors at Swiss Re GBS India, Marsh McLennan Global Services India and Principal Global Services India (none announced publicly as of 6 Oct 2026).
+2. The seven unverifiable existing leader names listed above, plus on-site heads for Bupa Capability Centre, Dai-ichi Life GCC, Chubb Business Services India and Prudential Services India (LinkedIn or direct enquiry).
+3. MCA status of Hannover Re Consulting Services India and the Lockton entities (MCA portal lookup).
+4. Headcounts not published anywhere: Aon GCC, Intact, SCOR branch, Gen Re branch, Lloyd's India, BMS India, and the ex-AIG Accenture entity.
